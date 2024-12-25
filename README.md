@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python Programming 
 - 💞️ I’m looking to collaborate on Python Projects and eventually Data Science projects 
 - 📫 How to reach me: via Instagram @fatilawal_
-- 😄 Pronouns: She!!
+- 😄 Pronouns: She!!!
 - ⚡ Fun fact: About me? I enjoy learning new things and connecting with like minded people 😉
 
 <!---
